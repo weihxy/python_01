@@ -1,0 +1,15 @@
+2022-05-30 10:43:15.654 | DEBUG    | __main__:<module>:30 - 这是一条debug日志
+2022-05-30 10:43:15.655 | INFO     | __main__:<module>:31 - 这是一条info日志
+2022-05-30 10:43:15.656 | WARNING  | __main__:<module>:32 - 这是一条warning日志
+2022-05-30 10:43:15.657 | SUCCESS  | __main__:<module>:33 - 这是一条success日志
+2022-05-30 10:43:15.657 | ERROR    | __main__:<module>:34 - 这是一条error日志
+2022-05-30T10:45:45.264028+0800 | DEBUG| 这是一条debug日志 |demo_loguru
+2022-05-30T10:45:45.265026+0800 | INFO| 这是一条info日志 |demo_loguru
+2022-05-30T10:45:45.265026+0800 | WARNING| 这是一条warning日志 |demo_loguru
+2022-05-30T10:45:45.265026+0800 | SUCCESS| 这是一条success日志 |demo_loguru
+2022-05-30T10:45:45.267026+0800 | ERROR| 这是一条error日志 |demo_loguru
+2022-05-30 at 10:49:24 | DEBUG| 这是一条debug日志 |demo_loguru
+2022-05-30 at 10:49:24 | INFO| 这是一条info日志 |demo_loguru
+2022-05-30 at 10:49:24 | WARNING| 这是一条warning日志 |demo_loguru
+2022-05-30 at 10:49:24 | SUCCESS| 这是一条success日志 |demo_loguru
+2022-05-30 at 10:49:24 | ERROR| 这是一条error日志 |demo_loguru
